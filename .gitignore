@@ -1,0 +1,9 @@
+# Built macOS app bundle (rebuild with ./build.sh)
+*.app/
+Stay Up.app/
+
+# macOS / Xcode noise
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
